@@ -1,5 +1,4 @@
 # Pricing Panel Project
-Some projects I have worked on
 
 A pricing panel that I created with the use of HTML and CSS, this learned me new things like:
 - using a google font
